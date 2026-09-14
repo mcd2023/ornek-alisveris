@@ -1,0 +1,2 @@
+# Köyüm Mandıra GitHub Pages
+Bu sürüm boş değildir. Ürün kataloğu, kategori filtreleri, sepete ekleme, adet değiştirme, toplam hesaplama ve localStorage sepeti vardır. GitHub Pages için index.html köktedir. Gerçek WhatsApp numaranızı js/main.js içindeki wa.me adresine ekleyin.
